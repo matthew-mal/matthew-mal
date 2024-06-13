@@ -4,6 +4,12 @@
 </div>
 
 
+
+_____________________
+👩‍💻 About me
+- Driven and self-motivated Python developer with 6 months of professional experience and 2 years of practical experience in web development.
+- Continuously seeking opportunities to expand skill set and tackle new challenges.
+
 ______________________
 ### :hammer_and_wrench: Languages and Tools :
 <div>
