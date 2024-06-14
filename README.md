@@ -36,7 +36,4 @@ _________________________
   <a href="https://t.me/mmmatthew">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="mat_mal02@outlook.com">
-    <img src="https://img.shields.io/badge/outlook-blue?logo=email&logoColor=white" alt="e-mail Badge"/>
-  </a>
 </div>
