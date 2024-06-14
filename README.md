@@ -27,9 +27,6 @@ ______________________
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>
 </div>
 
-______________________
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matthew-mal&theme=dark&background=000000)](https://git.io/streak-stats)
 _________________________
 - 📫 How to reach me:
 <div id="badges" align="cente">
