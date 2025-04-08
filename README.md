@@ -7,7 +7,7 @@
 
 _____________________
 👩‍💻 About me
-- Driven and self-motivated Python developer with 1 year of professional experience and 2 years of practical experience in web development.
+- Driven and self-motivated Python developer with more then 2 years of professional experience and 4 years of practical experience in web development.
 - Continuously seeking opportunities to expand skill set and tackle new challenges.
 
 ______________________
@@ -27,10 +27,4 @@ ______________________
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>
 </div>
 
-_________________________
-- 📫 How to reach me:
-<div id="badges" align="cente">
-  <a href="https://t.me/mmmatthew">
-    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
+________________________
